@@ -3,7 +3,7 @@ h1, h3, p {
     /*need to work on revert in github, WEAK!*/
 }
 body {
-    background-color: rgb(32, 29, 29);
+    background: linear-gradient(rgb(12, 12, 12),rgb(10, 10, 10));
 }
 img {
     padding: 5px;
@@ -15,7 +15,7 @@ h1, h3 {
     padding: 10px;
     text-align: center;
     font-size: 100px;
-    background-color:rgb(30, 30, 51);
+    background: linear-gradient(rgb(10, 10, 10), rgb(58, 52, 35));
 
 }
 p {
