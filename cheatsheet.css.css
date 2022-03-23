@@ -1,0 +1,24 @@
+h1, h2 {
+    font-family: Hurricane, serif;
+    font-size: 55px;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+  }
+  body {
+    background: linear-gradient(grey, darkgrey);
+  }
+  #html {
+    background: linear-gradient(to left, grey, darkgrey);
+  }
+  #css {
+    background: linear-gradient(grey, darkgrey);
+    background: linear-gradient(darkgrey, grey);
+  }
+  span {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  p {
+    font-family: monospace, serif, sans-serif;
+  }
