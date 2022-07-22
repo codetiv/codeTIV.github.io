@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(to left, grey, black);
+    color: goldenrod;
+  }
+  
+  section, article {
+    padding: 50px 15px;
+    text-align: left;
+  }
+  
+  h1, h3 {
+    text-align: center;
+    padding: 15px;
+  }
+  
+  img, figcaption {
+    max-width: 100%;
+    display: block;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+    padding: 5px
+  }
+  
+  ol, ul {
+    display: inline-block;
+    text-align: left;
+    padding: 5px;
+  }
+  
+  li {
+    padding: 5px;
+  }
+  
+  a {
+    color: lightblue;
+  }
+  
+  a:hover {
+    color: green;
+  }
