@@ -29,7 +29,7 @@ body {
 img {
     padding: 5px;
     margin: 0px 100px;
-
+    justify-content: center;
 }
 /*will need to add a nav later*/
 ul {
